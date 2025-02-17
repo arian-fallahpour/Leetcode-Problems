@@ -14,6 +14,4 @@ class Solution:
                 l += 1
         
         return longest
-            
-
-print(Solution.lengthOfLongestSubstring(Solution, "abcabcbb"))
+   
